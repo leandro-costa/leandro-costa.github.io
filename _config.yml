@@ -2,4 +2,4 @@ theme: jekyll-theme-dinky
 title: Leandro homepage
 description: Pagina de teste de Leandro do Github Pages!
 show_downloads: false
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: MrGreensWorkshop/MrGreen-JekyllTheme
