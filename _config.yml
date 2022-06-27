@@ -1,5 +1,5 @@
 title: Leandro homepage
 description: Pagina de teste de Leandro do Github Pages!
 show_downloads: false
-remote_theme: jeromelachaud/freelancer-theme
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
