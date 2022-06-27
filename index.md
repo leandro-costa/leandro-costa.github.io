@@ -1,4 +1,3 @@
 ---
-layout: index
-permalink: /
+layout: default
 ---
