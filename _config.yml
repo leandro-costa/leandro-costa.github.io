@@ -1,10 +1,9 @@
 title: Leandro homepage
 description: Pagina de teste de Leandro do Github Pages!
-show_downloads: false
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+remote_theme: "kitian616/jekyll-TeXt-theme"
 plugins:
+  - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
+  - jemoji
