@@ -3,9 +3,7 @@ description: Pagina de teste de Leandro do Github Pages!
 show_downloads: false
 remote_theme: benbalter/retlab
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
+  - jekyll-seo-tag
+  - jekyll-avatar
+  - jekyll-github-metadata
   - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
