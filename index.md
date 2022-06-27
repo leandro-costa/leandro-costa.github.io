@@ -1,3 +1,5 @@
 ---
-layout: default
+layout: home
+# articles:
+#   excerpt_type: html
 ---
