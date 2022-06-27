@@ -2,3 +2,10 @@ title: Leandro homepage
 description: Pagina de teste de Leandro do Github Pages!
 show_downloads: false
 remote_theme: benbalter/retlab
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
