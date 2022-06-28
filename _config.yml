@@ -1,14 +1,13 @@
-# theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "pt-BR"
+title                    : "Oficina GitHub Pages"
 title_separator          : "-"
-subtitle                 : site tagline that appears below site title in masthead # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+subtitle                 : "Um treinamento para a utilização do GitHub Pages para hospedagem de sites" # site tagline that appears below site title in masthead
+name                     : "Leandro Souza"
+description              : "Treinamento GitHub Pages"
 url                      : "https://leandro-costa.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "leandro-costa/leandro-costa.github.io"
