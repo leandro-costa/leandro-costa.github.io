@@ -7,7 +7,7 @@ title: "GitHub Pages"
 # multiple tag entries are possible
 tags: [GitHub, GitHub Pages]
 # publish date
-date: 2022-06-29
+date: 2022-06-28
 #published: false
 ---
 
