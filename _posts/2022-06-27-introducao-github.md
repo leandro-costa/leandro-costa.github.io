@@ -58,8 +58,10 @@ O primeiro passo para usar o GitHub é instalar o Git — em alguns casos, é po
 A partir disso, o usuário pode começar a mexer na plataforma. Para criar um projeto, por exemplo, o desenvolvedor deverá criar um repositório e, a partir disso, começar a colocar arquivos do projeto nesse local para programar de fato.
 
 ## GitHub é pago?
-
-<Figure src="https://s2.glbimg.com/Fbl2KhbhfDDSOGVuDAPYOZi_PM8=/0x0:1263x613/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/3/T/MOHYfCQamfC1EB8MlXLA/tech4.jpeg" caption="Como utilizar o GitHub? Site tem um plano gratuito e dois pagos — Foto: Reprodução/Guilherme Ramos" />
+<figure>
+<img src="https://s2.glbimg.com/Fbl2KhbhfDDSOGVuDAPYOZi_PM8=/0x0:1263x613/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/3/T/MOHYfCQamfC1EB8MlXLA/tech4.jpeg" />
+<figcaption="Como utilizar o GitHub? Site tem um plano gratuito e dois pagos — Foto: Reprodução/Guilherme Ramos" />
+</figure>
 
 O GitHub tem três planos principais: "Free", "Team" e "Enterprise". A versão "Free" é a gratuita, que disponibiliza repositórios públicos e privados ilimitados, 2 mil minutos por mês de automação e 500 MB de espaço para armazenamento.
 
