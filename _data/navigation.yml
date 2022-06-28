@@ -1,9 +1,11 @@
 posts:
-  - title: Oficina GitHub Pages
+  - title: Conteúdo Oficina
     children:
       - title: "Markdown"
-        url: /docs/quick-start-guide/
+        url: /2022/06/27/markdown
       - title: "GitHub"
-        url: /docs/structure/
+        url: /2022/06/28/introducao-github
       - title: "GitHub Pages"
-        url: /docs/installation/
+        url: /2022/06/28/github-pages
+      - title: "Jekyll"
+        url: /2022/06/28/jekyll

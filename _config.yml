@@ -49,6 +49,13 @@ defaults:
       comments: false
       share: false
       related: true
+      toc: true
+      toc_label: "Nessa página"
+      toc_icon: "cog"
+      sidebar:
+        nav: "posts"
+
+
 
 author:
   name: "Leandro Souza"
