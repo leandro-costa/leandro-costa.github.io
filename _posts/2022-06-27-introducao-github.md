@@ -9,10 +9,6 @@ tags: [GitHub]
 # publish date
 date: 2022-06-27
 #published: false
-
-toc: true
-toc_label: "Nessa página"
-toc_icon: "cog"
 ---
 
 
