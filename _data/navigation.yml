@@ -1,0 +1,9 @@
+posts:
+  - title: Oficina GitHub Pages
+    children:
+      - title: "Markdown"
+        url: /docs/quick-start-guide/
+      - title: "GitHub"
+        url: /docs/structure/
+      - title: "GitHub Pages"
+        url: /docs/installation/
