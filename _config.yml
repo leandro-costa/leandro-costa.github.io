@@ -48,9 +48,9 @@ defaults:
       read_time: true
       comments: false
       share: false
-      related: true
+      related: false
       toc: true
-      toc_label: "Nessa página"
+      toc_label: "Nesta página"
       toc_icon: "cog"
       sidebar:
         nav: "posts"

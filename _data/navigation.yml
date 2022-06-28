@@ -1,11 +1,11 @@
 posts:
-  - title: Conteúdo Oficina
+  - title: Oficina
     children:
       - title: "Markdown"
-        url: /2022/06/27/markdown
+        url: /2022/06/26/markdown
       - title: "GitHub"
-        url: /2022/06/28/introducao-github
+        url: /2022/06/27/introducao-github
       - title: "GitHub Pages"
-        url: /2022/06/28/github-pages
+        url: /2022/06/27/github-pages
       - title: "Jekyll"
-        url: /2022/06/28/jekyll
+        url: /2022/06/27/jekyll
