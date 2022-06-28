@@ -33,8 +33,10 @@ O slogan do GitHub é "Social Code Host" (hospedeiro social de códigos, em trad
 
 Com isso, o GitHub também pode funcionar como um serviço de colaboração de projetos pessoais e até comerciais. Grandes empresas como Google e WordPress também usufruem do site no que diz respeito às possibilidades de suporte a problemas e até novos desenvolvimentos para suas plataformas.
 
-
-<Figure src="https://s2.glbimg.com/7X-MONdSmskliJiGMIxgCVslr9g=/0x0:1261x613/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/t/G/JU7zEYSE6UCPH49vA97g/tech2.jpeg" caption="GitHub: o que é? Cooperação entre programadores é um dos pilares do site — Foto: Reprodução/Guilherme Ramos" />
+<figure>
+<img src="https://s2.glbimg.com/7X-MONdSmskliJiGMIxgCVslr9g=/0x0:1261x613/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/t/G/JU7zEYSE6UCPH49vA97g/tech2.jpeg" />
+<figcaption> GitHub: o que é? Cooperação entre programadores é um dos pilares do site — Foto: Reprodução/Guilherme Ramos" </figcaption>
+</figure>
 
 
 ## O que significa Git?
@@ -44,8 +46,10 @@ A ideia central do GitHub vem justamente do Git. O Git é um projeto aberto, ini
 Quando é desenvolvido um app, por exemplo, os programadores fazem mudanças constantes no código, e com o Git isso é revisado de forma que as versões atualizadas não tenham erros, por exemplo. Ainda assim, a ferramenta poderia ser usada com qualquer tipo de arquivo, como documentos de texto e vídeos.
 
 ## Para que serve o GitHub?
-
-<Figure src="https://s2.glbimg.com/VY9N8DQLi3QN7JHcK6Smz5E3ke8=/0x0:1263x607/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/e/c/Wq2ZP2TWuhjrNNDlepwQ/tech3.jpeg" caption="Como funciona o GitHub? Site comporta diversos projetos — Foto: Reprodução/Guilherme Ramos" />
+<figure>
+<img src="https://s2.glbimg.com/VY9N8DQLi3QN7JHcK6Smz5E3ke8=/0x0:1263x607/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/e/c/Wq2ZP2TWuhjrNNDlepwQ/tech3.jpeg"  />
+<figcaption> Como funciona o GitHub? Site comporta diversos projetos — Foto: Reprodução/Guilherme Ramos" </figcaption>
+</figure>
 
 O GitHub é usado principalmente para armazenar repositórios, que são as "localizações" dos arquivos de um determinado projeto. Os usuários podem criar projetos com base em outros já existentes e editá-los à sua maneira — é assim, por exemplo, que múltiplos desenvolvedores se ajudam em um mesmo projeto. Desse modo, depois de editar os códigos, o programador em questão pode lançar o projeto revisado novamente na rede para que os demais também tenham a oportunidade de otimizá-lo.
 
@@ -60,7 +64,7 @@ A partir disso, o usuário pode começar a mexer na plataforma. Para criar um pr
 ## GitHub é pago?
 <figure>
 <img src="https://s2.glbimg.com/Fbl2KhbhfDDSOGVuDAPYOZi_PM8=/0x0:1263x613/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/3/T/MOHYfCQamfC1EB8MlXLA/tech4.jpeg" />
-<figcaption="Como utilizar o GitHub? Site tem um plano gratuito e dois pagos — Foto: Reprodução/Guilherme Ramos" />
+<figcaption>Como utilizar o GitHub? Site tem um plano gratuito e dois pagos — Foto: Reprodução/Guilherme Ramos"</figcaption>
 </figure>
 
 O GitHub tem três planos principais: "Free", "Team" e "Enterprise". A versão "Free" é a gratuita, que disponibiliza repositórios públicos e privados ilimitados, 2 mil minutos por mês de automação e 500 MB de espaço para armazenamento.
