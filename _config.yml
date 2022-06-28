@@ -84,5 +84,15 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
+      share: false
       related: true
+
+author:
+  name: "Leandro Souza"
+  avatar: "https://lh3.googleusercontent.com/-49UTXwCFuxU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclyGN2w2gMjjGuoi66-W35hhmIMZg/photo.jpg?sz=92"
+  bio: "Professor EBTT." # Note: Markdown is allowed
+  location: "IFBA SAJ"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/leandro-souza"

@@ -9,6 +9,10 @@ tags: [GitHub]
 # publish date
 date: 2022-06-27 22:05:30 -0300
 #published: false
+
+toc: true
+toc_label: "Nessa página"
+toc_icon: "cog"
 ---
 
 # Introdução ao GitHub
