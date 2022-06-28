@@ -1,7 +1,7 @@
 ---
 title: "Introdução ao GitHub"
 # if not specified, .name will be used from _data/owner/[language].yml
-author: Leandro Souza
+# author: Leandro Souza
 # multiple category is not supported
 category: GitHub
 # multiple tag entries are possible
@@ -15,7 +15,6 @@ toc_label: "Nessa página"
 toc_icon: "cog"
 ---
 
-# Introdução ao GitHub
 
 *Comece a usar o GitHub.*
 

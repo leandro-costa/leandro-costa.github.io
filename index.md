@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#35a8ad"
   actions:
     - label: "<i class='fas fa-play-circle'></i> Iniciar Agora"
       url: "/home"
