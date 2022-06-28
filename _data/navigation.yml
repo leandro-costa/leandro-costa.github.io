@@ -1,3 +1,11 @@
+# main links
+main:
+  - title: "Index"
+    url: /
+  - title: "Home"
+    url: /home
+  - title: "Arquivo"
+    url: /archive
 posts:
   - title: Oficina
     children:
