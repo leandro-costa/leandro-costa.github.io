@@ -13,9 +13,9 @@ posts:
         url: /2022/06/26/introducao-git
       - title: "GitHub"
         url: /2022/06/27/introducao-github
-      - title: "Markdown"
-        url: /2022/06/28/markdown
       - title: "GitHub Pages"
-        url: /2022/06/29/github-pages
+        url: /2022/06/28/github-pages
+      - title: "Markdown"
+        url: /2022/06/29/markdown
       - title: "Jekyll"
         url: /2022/06/30/jekyll
