@@ -43,6 +43,8 @@ para criar o nosso site vamos seguir o passo a passo de [^githubpages]
 
     Abra um navegador e vá para **http://username.github.io/**    
 
+
+ver [leandro-costa.github.io HTML](https://github.com/leandro-costa/leandro-costa.github.io/tree/gh-pages-p)
 # Com Markdown
 
 para criar o nosso site vamos seguir o passo a passo de [^githubpagesquickstart]
