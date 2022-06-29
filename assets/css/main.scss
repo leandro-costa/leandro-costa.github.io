@@ -8,7 +8,8 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.page__content p{
+.page__content p,  
+.page__content li  {
   text-align: justify;
   hyphens: auto;
 }
