@@ -1,28 +1,56 @@
 ---
 title: "GitHub Pages"
-# if not specified, .name will be used from _data/owner/[language].yml
-# author: Leandro Souza
-# multiple category is not supported
-# category: conteudo
-# multiple tag entries are possible
 tags: [GitHub, GitHub Pages]
-# publish date
 date: 2022-06-28
-#published: false
 ---
 
+para criar o nosso site vamos seguir o passo a passo de [^githubpages]
 
-*Comece a usar o GitHub.*
+# Com HTML
+1. Criar um repositório
+   
+    Vá até o GitHub e crie um novo repositório público chamado **username.github.io**, onde username é seu nome de usuário (ou nome da organização) no GitHub.
 
-- [ ] https://pages.github.com/
-- [ ] https://github.com/skills/github-pages
-- [ ] https://docs.github.com/en/pages/quickstart
-- [ ] https://docs.github.com/pt/pages
-- [ ] Revisar (join)
+    *Se a primeira parte do repositório não corresponder exatamente ao seu nome de usuário, não funcionará, portanto, certifique-se de acertar.*
+
+    ![](https://pages.github.com/images/user-repo@2x.png)
+
+2. Criar um arquivo de index.html
+
+    Vá no repositório criado e clique no botão **Criar novo arquivo** 
+
+    ![](https://pages.github.com/images/new-create-file@2x.png)
+
+3. Nomeie o arquivo index.html e digite algum conteúdo HTML no editor.
+
+    ![](https://pages.github.com/images/new-index-html@2x.png)
+
+4. Confirme o arquivo
+
+    Role até o final da página, escreva uma mensagem de confirmação e confirme o novo arquivo.
+
+    ![](https://pages.github.com/images/new-commit-file@2x.png)
+
+5. Configurações do repositório
+
+    Clique na guia Configurações e role para baixo até a seção GitHub Pages.
+    
+    Em seguida, selecione a origem do branch principal e clique no botão **Salvar**.
+
+    ![](https://pages.github.com/images/source-setting@2x.png)
+
+6. Pronto!
+
+    Abra um navegador e vá para **http://username.github.io/**    
+
+# Com Markdown
+
+para criar o nosso site vamos seguir o passo a passo de [^githubpagesquickstart]
 
 # Referências 
 
-[^techtudo]:Guilherme Ramos. Techtudo. O que é o GitHub? Veja para que serve a 'rede social de programadores' [https://www.techtudo.com.br/listas/2021/05/o-que-e-o-github-veja-para-que-serve-a-rede-social-de-programadores.ghtml](https://www.techtudo.com.br/listas/2021/05/o-que-e-o-github-veja-para-que-serve-a-rede-social-de-programadores.ghtml).(Acessado em 18/06/2022)
+[^githubpages]: GitHub, Inc. GitHub Pages. Websites for you and your projects. [https://pages.github.com/](https://pages.github.com/).(Acessado em 28/06/2022)
 
-[^github-hello-world]: GitHub, Inc. Hello World para dar os primeiros passos com GitHub [https://docs.github.com/pt/get-started/quickstart/hello-world](https://docs.github.com/pt/get-started/quickstart/hello-world).(Acessado em 18/06/2022)
+
+[^githubpagesquickstart]: GitHub, Inc. GitHub Pages. Início rápido para o GitHub Pages. [https://docs.github.com/pt/pages/quickstart](https://docs.github.com/pt/pages/quickstart).(Acessado em 28/06/2022)
 
