@@ -69,3 +69,5 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/leandro-souza"
+
+theme: jekyll-theme-minimal
