@@ -86,7 +86,7 @@ Por padrão, o título do seu site é `username.github.io`. Você pode alterar o
     ```yml
     theme: jekyll-theme-minimal
     title: Octocat's homepage
-    description: Bookmark this to keep an eye on my project updates!
+    description: Bookmark this to keep an eye on my project updates
     ```
 
 1. Ao terminar de editar o arquivo, clique em **Aplicar as alterações**.

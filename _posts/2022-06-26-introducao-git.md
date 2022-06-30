@@ -5,7 +5,8 @@ date: 2022-06-26
 ---
 
 # Controle de Versão
-
+ 
+ 
 
 O controle de versão é a prática de rastrear e gerenciar alterações. Essas alterações podem ser em qualquer arquivo digital.[^atlassian]
 

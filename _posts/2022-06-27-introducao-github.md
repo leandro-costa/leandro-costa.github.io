@@ -1,14 +1,7 @@
 ---
 title: "Introdução ao GitHub"
-# if not specified, .name will be used from _data/owner/[language].yml
-# author: Leandro Souza
-# multiple category is not supported
-# category: conteudo
-# multiple tag entries are possible
 tags: [GitHub, Git]
-# publish date
 date: 2022-06-27
-#published: false
 ---
 
 GitHub é uma plataforma de hospedagem de código para controle de versão e colaboração. Permite que você e outras pessoas trabalhem em conjunto em projetos de qualquer lugar.
